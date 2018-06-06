@@ -32,23 +32,3 @@ def snmpGet(oid, ip, community="public", port="161"):
   if ret != {}:
     return ret
   return None
-
-ips = [
-  "192.168.240.240",
-  "192.168.2.240"
-]
-
-oids = [
-  "1.3.6.1.2.1.31.1.1.1.6",
-  "1.3.6.1.2.1.31.1.1.1.10"
-]
-
-values = []
-
-for ip in ips:
-  ip_res = []
-  for oid in oids:
-    ip_res.append(snmpGet(oid, ip))
-  values.append(ip_res)
-
-print(values)
