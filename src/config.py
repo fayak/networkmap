@@ -4,6 +4,12 @@ import os
 import logging
 import json
 
+def static_var(varname, value):
+    def decorate(func):
+        setattr(func, varname, value)
+        return func
+    return decorate
+
 def my_exit():
   logging.critical("Exiting ...")
   exit(1)
