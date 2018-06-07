@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 from pysnmp.hlapi import *
-
+import logging
 se = SnmpEngine()
 
 def snmpGet(oid, ip, community="public", port="161"):
@@ -16,6 +16,7 @@ def snmpGet(oid, ip, community="public", port="161"):
         lexicographicMode=False
     )
   except PySnmpError:
+    logging.error("Error while trying to speak snmp : "+str(PySnmpError.args[0]))
     return None
   ret = {}
 
@@ -29,6 +30,8 @@ def snmpGet(oid, ip, community="public", port="161"):
             i = i + 1
         except:
           return None
+      else:
+        logging.error("Error while trying to speak snmp from "+ip+": "+str(eri))
   if ret != {}:
     return ret
   return None

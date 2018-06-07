@@ -1,0 +1,24 @@
+{
+  "elasticsearch": {
+    "url": null,
+    "port": "9200",
+    "user": null,
+    "password": null,
+    "index_name": null,
+    "_index_name_comment": "Will be completed with \"-YEAR-MONTH\"",
+    "protocol": "https"
+  },
+  "log_output_format": "[%(asctime)s][%(levelname)s] %(message)s",
+  "_log_output_format_comment": "See python logging for format indication",
+  "log_output_file": null,
+  "_log_output_file_comment": "either 'null' for stdout, or a valid path",
+  "log_level": "info",
+  "_log_level_comment": ["debug", "info", "warning", "error", "critical"],
+  "ips": [
+    "192.168.240.240"
+  ],
+  "oids": {
+    "in":"1.3.6.1.2.1.31.1.1.1.6",
+    "out":"1.3.6.1.2.1.31.1.1.1.10"
+  }
+}

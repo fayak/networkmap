@@ -31,7 +31,7 @@ def es_comm(url, method="GET", auth=None, json=None):
         raise EsWrongMethodException("Unhandled/Wrong HTTP method")
       break
     except requests.exceptions.RequestException as e:
-      print("Unable to connect")
+      logging.warning("Unable to contact "+url+". Will try again in "+str(iteration * 30)+"s")
       time.sleep(iteration * 30)
       iteration *= 2
   rep = r.json()
