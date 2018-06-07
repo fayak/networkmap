@@ -16,7 +16,8 @@ loop = True
 current_date = ""
 
 def scan(ips, oids, url, auth):
-  for ip in ips:
+  for domain in ips:
+    ip = ips[domain]
     logging.info("Scanning "+ip)
     for oid in oids:
       logging.info("Fetching OID "+oid+"("+oids[oid]+")")
