@@ -1,0 +1,4576 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100%"
+   height="100%"
+   viewBox="0 0 2963.7268 2900.6603"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 2405546, 2018-03-11"
+   sodipodi:docname="kb.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 864.83015 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2963.7268 : 864.83015 : 1"
+       inkscape:persp3d-origin="1481.8634 : 576.55343 : 1"
+       id="perspective5174" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4668"
+       id="linearGradient1471"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.30272,0,0,0.437918,0,0.584034)"
+       x1="1.8456431"
+       y1="88.294933"
+       x2="18.972126"
+       y2="88.294933" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4741"
+       id="linearGradient1468"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.291824,0,0,0.434269,0.08855179,2)"
+       x1="1.8456430"
+       y1="88.294930"
+       x2="18.972126"
+       y2="88.294930" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4762"
+       id="linearGradient1464"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.492569,0,0,0.668741,0.08188072,2)"
+       x1="15.387969"
+       y1="32.539238"
+       x2="15.487823"
+       y2="58.831264" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient259"
+       id="linearGradient1459"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.94571,0,0,1.076032,0.05016683,4.095404)"
+       x1="25.056711"
+       y1="3.6785457"
+       x2="24.789707"
+       y2="25.247311" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient15662"
+       id="linearGradient1456"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.198769,0,0,0.853565,-0.143086,2.034513)"
+       x1="20.771229"
+       y1="25.140253"
+       x2="20.717800"
+       y2="19.337463" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4688"
+       id="linearGradient1453"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.369844,0,0,0.421969,0,2)"
+       x1="9.7316532"
+       y1="70.724976"
+       x2="9.7052784"
+       y2="62.282467" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4680"
+       id="linearGradient1451"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.369844,0,0,0.421969,0,2)"
+       x1="10.338233"
+       y1="64.652260"
+       x2="10.338233"
+       y2="54.136139" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4733"
+       id="linearGradient1447"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(2.772086,0,0,0.360739,0.618718,2.883883)"
+       x1="9.8698082"
+       y1="57.227650"
+       x2="9.9128132"
+       y2="72.064316" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4698"
+       id="radialGradient1433"
+       gradientUnits="userSpaceOnUse"
+       cx="9.1295490"
+       cy="26.925594"
+       fx="9.1295490"
+       fy="26.925594"
+       r="2.1227016" />
+    <linearGradient
+       id="linearGradient15662">
+      <stop
+         style="stop-color:#ffffff;stop-opacity:0.0000000;"
+         offset="0.0000000"
+         id="stop15664" />
+      <stop
+         style="stop-color:#f8f8f8;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop15666" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient259">
+      <stop
+         style="stop-color:#e0e0e0;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop260" />
+      <stop
+         id="stop4886"
+         offset="0.40546969"
+         style="stop-color:#ffffff;stop-opacity:1.0000000;" />
+      <stop
+         id="stop4884"
+         offset="0.53448278"
+         style="stop-color:#cdcdcd;stop-opacity:1.0000000;" />
+      <stop
+         style="stop-color:#494949;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop261" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4668">
+      <stop
+         style="stop-color:#8e8d87;stop-opacity:1;"
+         offset="0"
+         id="stop4670" />
+      <stop
+         id="stop4676"
+         offset="0.27586207"
+         style="stop-color:#cbc9c1;stop-opacity:1.0000000;" />
+      <stop
+         style="stop-color:#8e8d87;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop4672" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4680">
+      <stop
+         style="stop-color:#f7f6f5;stop-opacity:1;"
+         offset="0"
+         id="stop4682" />
+      <stop
+         style="stop-color:#f7f6f5;stop-opacity:0;"
+         offset="1"
+         id="stop4684" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4688">
+      <stop
+         style="stop-color:#666666;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4690" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4692" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4698">
+      <stop
+         style="stop-color:#fffffd;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4700" />
+      <stop
+         id="stop4706"
+         offset="0.50000000"
+         style="stop-color:#bbbbb9;stop-opacity:1.0000000;" />
+      <stop
+         style="stop-color:#000000;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop4702" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4733">
+      <stop
+         style="stop-color:#000000;stop-opacity:0.23711340;"
+         offset="0.0000000"
+         id="stop4735" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop4737" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4741">
+      <stop
+         style="stop-color:#dcdcda;stop-opacity:1.0000000;"
+         offset="0.0000000"
+         id="stop4743" />
+      <stop
+         style="stop-color:#bab9b7;stop-opacity:1.0000000;"
+         offset="1.0000000"
+         id="stop4745" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient4762">
+      <stop
+         id="stop4764"
+         offset="0.0000000"
+         style="stop-color:#ffffff;stop-opacity:0.12371134;" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1.0000000;"
+         offset="0.10344828"
+         id="stop4768" />
+      <stop
+         id="stop4766"
+         offset="1"
+         style="stop-color:#ffffff;stop-opacity:0;" />
+    </linearGradient>
+    <radialGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1,0,0,0.333333,0,27.91667)"
+       r="19.125000"
+       fy="41.875000"
+       fx="24.000000"
+       cy="41.875000"
+       cx="24.000000"
+       id="radialGradient7618"
+       xlink:href="#linearGradient7612"
+       inkscape:collect="always" />
+    <linearGradient
+       id="linearGradient7612"
+       inkscape:collect="always">
+      <stop
+         id="stop7614"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:1;" />
+      <stop
+         id="stop7616"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect3978"
+         height="615"
+         width="613" />
+    </clipPath>
+    <clipPath
+       id="clip0-5">
+      <rect
+         y="0"
+         x="0"
+         id="rect3978-5"
+         height="615"
+         width="613" />
+    </clipPath>
+    <clipPath
+       id="clip0-5-8">
+      <rect
+         y="0"
+         x="0"
+         id="rect3978-5-8"
+         height="615"
+         width="613" />
+    </clipPath>
+    <clipPath
+       id="clip0-5-8-2">
+      <rect
+         y="0"
+         x="0"
+         id="rect3978-5-8-5"
+         height="615"
+         width="613" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="37.59724"
+     inkscape:cy="1605.2791"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2556"
+     inkscape:window-height="1417"
+     inkscape:window-x="2"
+     inkscape:window-y="2"
+     inkscape:window-maximized="0"
+     inkscape:snap-grids="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1108.1069,409.29809)">
+    <a
+       id="a3864"
+       xlink:href="https://portail.acu.epita.fr/" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.65968037px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.55497336;"
+       x="333.0083"
+       y="-342.2402"
+       id="text4497"
+       transform="scale(1.0247122,0.97588378)"><tspan
+         sodipodi:role="line"
+         x="333.0083"
+         y="-342.2402"
+         style="font-size:39.68696976px;line-height:1.25;fill:#000000;stroke-width:0.55497336;"
+         id="labsr-text">Lab SR</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:6.03833246px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.50319439;"
+       x="831.75781"
+       y="-301.45111"
+       id="text4497-2"
+       transform="scale(0.89084503,1.1225297)"><tspan
+         sodipodi:role="line"
+         id="sm14-text"
+         x="831.75781"
+         y="-301.45111"
+         style="font-size:38.01071167px;line-height:1.25;stroke-width:0.50319439;">SM 14</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-905.58057"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-926.83655"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p11_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-756.80334"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p12_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-735.65393"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p13_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-714.29102"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p14_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-693.14148"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p15_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-671.77869"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p16_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-650.62927"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p10_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-778.05933"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-884.14111"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-862.7782"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p07_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-841.62878"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p08_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-820.26587"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p09_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-799.11646"
+       y="58.926628"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-758.29004"
+       y="292.9494"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-737.14062"
+       y="292.9494"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-715.77759"
+       y="292.94962"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-694.6283"
+       y="292.94962"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-673.26526"
+       y="292.94962"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-652.11597"
+       y="292.94962"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p11_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-757.75586"
+       y="246.01868"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p12_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-736.60657"
+       y="246.13782"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p13_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-715.24353"
+       y="245.89957"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p14_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-694.09436"
+       y="245.89957"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p15_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-672.7312"
+       y="245.89957"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p16_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-651.58191"
+       y="245.89957"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p10_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-779.01196"
+       y="246.01862"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p11_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-757.80933"
+       y="199.80229"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p12_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-736.65991"
+       y="199.92143"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p13_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-715.297"
+       y="199.68332"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p14_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-694.14771"
+       y="199.68332"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p15_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-672.78467"
+       y="199.68332"
+       inkscape:label="#sm14-r04p13"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p16_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-651.63525"
+       y="199.68332"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p10_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-779.06531"
+       y="199.80222"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p08_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-736.88013"
+       y="153.10944"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p09_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-715.73096"
+       y="153.22861"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p10_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-694.3678"
+       y="152.99034"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p11_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-673.21863"
+       y="152.99034"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p12_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-651.85559"
+       y="152.99034"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p07_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-758.13635"
+       y="153.10934"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p11_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-757.38196"
+       y="104.98721"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p12_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-736.23279"
+       y="105.10635"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p13_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-714.86963"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p14_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-693.72046"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p15_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-672.35742"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p16_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-651.20813"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p10_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-778.63818"
+       y="104.98712"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-906.49548"
+       y="246.01862"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-885.34607"
+       y="246.13776"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-863.98303"
+       y="245.89951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p07_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-842.83374"
+       y="245.89951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p08_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-821.4707"
+       y="245.89951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p09_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-800.32141"
+       y="245.89951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-927.75146"
+       y="246.01852"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-906.34827"
+       y="199.94199"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-885.19897"
+       y="200.06107"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-863.83594"
+       y="199.82285"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p07_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-842.68665"
+       y="199.82285"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p08_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-821.32373"
+       y="199.82285"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p09_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-800.17419"
+       y="199.82285"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-927.60437"
+       y="199.94189"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-905.85449"
+       y="104.98734"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-884.7052"
+       y="105.10648"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-863.34229"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p07_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-842.19275"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p08_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-820.82983"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p09_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-799.68054"
+       y="104.86816"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-927.1106"
+       y="104.98721"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p05_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-844"
+       y="152.87126"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p06_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-822.85059"
+       y="152.87126"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p03_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-927.37781"
+       y="153.10951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p04_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-906.22827"
+       y="153.10951"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-407.37631"
+       y="292.37982"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-383.5405"
+       y="292.48956"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-359.46384"
+       y="292.27032"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-335.62802"
+       y="292.27032"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-311.55136"
+       y="292.27032"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-287.71555"
+       y="292.27032"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-431.33237"
+       y="292.37982"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-550.88953"
+       y="292.43671"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-526.81299"
+       y="292.21747"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-502.9769"
+       y="292.21747"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-478.90048"
+       y="292.21747"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-455.06454"
+       y="292.21747"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-407.71677"
+       y="245.56322"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-383.88095"
+       y="245.67284"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-359.80441"
+       y="245.45366"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-335.96835"
+       y="245.45366"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-311.89182"
+       y="245.45366"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-288.056"
+       y="245.45366"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-431.67282"
+       y="245.56316"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-551.22998"
+       y="245.61992"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-527.15356"
+       y="245.40074"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-503.31747"
+       y="245.40074"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-479.24094"
+       y="245.40074"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-455.405"
+       y="245.40074"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-407.71677"
+       y="198.43651"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-383.88095"
+       y="198.54619"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-359.80441"
+       y="198.32695"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-335.96835"
+       y="198.32695"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-311.89182"
+       y="198.32695"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-288.056"
+       y="198.32695"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-431.67282"
+       y="198.43651"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-551.22998"
+       y="198.49327"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-527.15356"
+       y="198.27409"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-503.31747"
+       y="198.27409"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-479.24094"
+       y="198.27409"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-455.405"
+       y="198.27409"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p14_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-550.51465"
+       y="148.60277"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p13_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-526.43811"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-502.60214"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-407.71677"
+       y="59.226921"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-383.88095"
+       y="59.33654"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-359.80441"
+       y="59.117363"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-335.96835"
+       y="59.117363"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-311.89182"
+       y="59.117363"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-288.056"
+       y="59.117363"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-431.67282"
+       y="59.226921"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p17_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-551.22998"
+       y="59.283684"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p16_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-527.15356"
+       y="59.064445"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p15_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-503.31747"
+       y="59.064445"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p14_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-479.24094"
+       y="59.064445"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p13_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-455.405"
+       y="59.064445"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-264.27988"
+       y="58.689934"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-240.20335"
+       y="58.470879"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-216.36742"
+       y="58.470879"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-192.29088"
+       y="58.470879"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-168.45506"
+       y="58.470879"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-408.27109"
+       y="102.30975"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-384.43527"
+       y="102.41943"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-360.35873"
+       y="102.20025"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-336.52292"
+       y="102.20025"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-312.44626"
+       y="102.20025"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-288.61044"
+       y="102.20025"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p12_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-432.22739"
+       y="102.30975"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p17_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-551.7843"
+       y="102.36651"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p16_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-527.70776"
+       y="102.14733"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p15_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-503.87192"
+       y="102.14733"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p14_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-479.79538"
+       y="102.14733"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p13_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-455.95944"
+       y="102.14733"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-264.83432"
+       y="101.77288"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-240.75792"
+       y="101.5537"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-216.92186"
+       y="101.5537"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-192.84532"
+       y="101.5537"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-169.00951"
+       y="101.5537"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p06_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-325.81491"
+       y="148.54588"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p11_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-445.37192"
+       y="148.60277"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p10_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-421.29526"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p09_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-397.45956"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p08_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-373.38303"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p07_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-349.54709"
+       y="148.38359"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p05_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-265.64194"
+       y="147.67253"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p04_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-241.56541"
+       y="147.45335"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p03_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-217.7296"
+       y="147.45335"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p02_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-193.65294"
+       y="147.45335"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29965162px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p01_labsr_sm_cri_epita_net"
+       class="computer"
+       width="21.187431"
+       height="27.842743"
+       x="-169.81725"
+       y="147.45335"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-785.11121"
+       y="303.74728"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-762.59741"
+       y="303.86288"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-739.85577"
+       y="303.63168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-717.3418"
+       y="303.63168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-694.60034"
+       y="303.63168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-672.08649"
+       y="303.63168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-807.73901"
+       y="303.74716"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-920.66614"
+       y="303.8071"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-897.92444"
+       y="303.5759"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-875.41028"
+       y="303.5759"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-852.66919"
+       y="303.5759"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-830.15472"
+       y="303.5759"
+       inkscape:label="#cisco-r01p08"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-785.11121"
+       y="257.05478"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-762.59741"
+       y="257.17038"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-739.85577"
+       y="256.9393"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-717.3418"
+       y="256.9393"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-694.60034"
+       y="256.9393"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-672.08649"
+       y="256.9393"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-807.73901"
+       y="257.05478"
+       inkscape:label="#cisco-r02p07"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-920.66614"
+       y="257.11459"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-897.92444"
+       y="256.88351"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-875.41028"
+       y="256.88351"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-852.66919"
+       y="256.88351"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-830.15472"
+       y="256.88351"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-785.56616"
+       y="208.97554"
+       inkscape:label="#rect4684-5-6-1-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-763.05225"
+       y="209.09102"
+       inkscape:label="#rect4684-1-0-96-3-94"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-740.31055"
+       y="208.85982"
+       inkscape:label="#rect4684-2-9-5-8-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-717.79675"
+       y="208.85982"
+       inkscape:label="#rect4684-9-8-9-0-5"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-695.05518"
+       y="208.85982"
+       inkscape:label="#rect4684-98-0-7-8-6"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-672.54138"
+       y="208.85982"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-808.19409"
+       y="208.97554"
+       inkscape:label="#rect4684-5-9-43-8-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-921.12097"
+       y="209.03523"
+       inkscape:label="#rect4684-1-0-1-2-0"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-898.37939"
+       y="208.80403"
+       inkscape:label="#rect4684-2-9-8-7-7"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-875.86536"
+       y="208.80403"
+       inkscape:label="#rect4684-9-8-80-8-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-853.1239"
+       y="208.80403"
+       inkscape:label="#rect4684-98-0-59-2-7"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-830.60999"
+       y="208.80403"
+       inkscape:label="#rect4684-0-0-58-5-95"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-672.04706"
+       y="64.275101"
+       inkscape:label="#rect4684-5-6-1-25"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-649.53308"
+       y="64.390823"
+       inkscape:label="#rect4684-1-0-96-3-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-626.79169"
+       y="64.159622"
+       inkscape:label="#rect4684-2-9-5-8-1"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-604.27753"
+       y="64.159622"
+       inkscape:label="#rect4684-9-8-9-0-8"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-581.53601"
+       y="64.159622"
+       inkscape:label="#rect4684-98-0-7-8-8"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-559.02234"
+       y="64.159622"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-694.67474"
+       y="64.275101"
+       inkscape:label="#rect4684-5-9-43-8-0"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-807.60181"
+       y="64.335037"
+       inkscape:label="#rect4684-1-0-1-2-8"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-784.86017"
+       y="64.103836"
+       inkscape:label="#rect4684-2-9-8-7-85"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-762.34613"
+       y="64.103836"
+       inkscape:label="#rect4684-9-8-80-8-7"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-739.6048"
+       y="64.103836"
+       inkscape:label="#rect4684-98-0-59-2-5"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-717.09094"
+       y="64.103836"
+       inkscape:label="#rect4684-0-0-58-5-8"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p17_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-921.12085"
+       y="64.661697"
+       inkscape:label="#rect4684-1-0-1-2-8-8"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p16_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-898.37939"
+       y="64.43074"
+       inkscape:label="#rect4684-2-9-8-7-85-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p15_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-875.86536"
+       y="64.43074"
+       inkscape:label="#rect4684-9-8-80-8-7-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p14_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-853.12378"
+       y="64.43074"
+       inkscape:label="#rect4684-98-0-59-2-5-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p13_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-830.60999"
+       y="64.43074"
+       inkscape:label="#rect4684-0-0-58-5-8-6"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-671.95331"
+       y="109.44527"
+       inkscape:label="#rect4684-5-6-1-25-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-649.43909"
+       y="109.56087"
+       inkscape:label="#rect4684-1-0-96-3-4-6"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-626.69769"
+       y="109.32979"
+       inkscape:label="#rect4684-2-9-5-8-1-2"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-604.18359"
+       y="109.32979"
+       inkscape:label="#rect4684-9-8-9-0-8-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-581.44208"
+       y="109.32979"
+       inkscape:label="#rect4684-98-0-7-8-8-7"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-558.92841"
+       y="109.32979"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-694.58057"
+       y="109.44514"
+       inkscape:label="#rect4684-5-9-43-8-0-2"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-807.50781"
+       y="109.50508"
+       inkscape:label="#rect4684-1-0-1-2-8-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-784.7663"
+       y="109.27388"
+       inkscape:label="#rect4684-2-9-8-7-85-2"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-762.2522"
+       y="109.27388"
+       inkscape:label="#rect4684-9-8-80-8-7-1"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-739.51074"
+       y="109.27388"
+       inkscape:label="#rect4684-98-0-59-2-5-5"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-716.99701"
+       y="109.27388"
+       inkscape:label="#rect4684-0-0-58-5-8-7"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p17_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-921.02686"
+       y="109.83174"
+       inkscape:label="#rect4684-1-0-1-2-8-8-3"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p16_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-898.28552"
+       y="109.60078"
+       inkscape:label="#rect4684-2-9-8-7-85-9-1"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p15_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-875.77148"
+       y="109.60078"
+       inkscape:label="#rect4684-9-8-80-8-7-9-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p14_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-853.03015"
+       y="109.60078"
+       inkscape:label="#rect4684-98-0-59-2-5-9-4"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p13_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-830.51605"
+       y="109.60078"
+       inkscape:label="#rect4684-0-0-58-5-8-6-9"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p05_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-650.52411"
+       y="156.36201"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p04_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-628.00989"
+       y="156.47762"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p03_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-604.63867"
+       y="156.48445"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p02_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-581.89746"
+       y="156.48445"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p01_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-559.38312"
+       y="156.48445"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p06_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-705.00568"
+       y="156.92671"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p09_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-772.67755"
+       y="156.75569"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p08_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-749.93591"
+       y="156.75569"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p07_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-727.42175"
+       y="156.75569"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p14_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-921.48193"
+       y="156.98653"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p13_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-898.7406"
+       y="156.75545"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p12_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-876.22656"
+       y="156.75545"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p11_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-817.67017"
+       y="156.75545"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.29697478px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p10_cisco_sm_cri_epita_net"
+       class="computer"
+       width="20.012461"
+       height="29.356142"
+       x="-795.15631"
+       y="156.75545"
+       transform="scale(1,-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.22021198px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.60168433;"
+       x="-917.63177"
+       y="-327.23279"
+       id="text4497-2-7-2"
+       transform="scale(0.94496817,1.0582367)"><tspan
+         sodipodi:role="line"
+         id="cisco-text"
+         x="-917.63177"
+         y="-327.23279"
+         style="font-size:45.48434067px;line-height:1.25;stroke-width:0.60168433;fill:#000000;fill-opacity:1;">Lab Cisco</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="294.67322"
+       y="-37.100918"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="270.13446"
+       y="-37.102047"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="318.25348"
+       y="-36.875576"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="246.84528"
+       y="-37.326199"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="105.02959"
+       y="61.832798"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="82.492973"
+       y="61.83176"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="127.2752"
+       y="61.832798"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="59.648613"
+       y="61.607609"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="149.25238"
+       y="61.832798"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="171.21021"
+       y="61.832798"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="104.77898"
+       y="12.87845"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="82.242363"
+       y="12.877413"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="127.02447"
+       y="12.878633"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="59.398003"
+       y="12.6532"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="149.00153"
+       y="12.878633"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="170.95941"
+       y="12.878633"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="103.96539"
+       y="-39.934322"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="81.428886"
+       y="-39.93536"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="126.21111"
+       y="-39.934322"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p10_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="58.584648"
+       y="-40.159725"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="148.18817"
+       y="-40.159481"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="170.146"
+       y="-39.9342"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="294.05646"
+       y="-91.726074"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="269.5177"
+       y="-91.727173"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.63672"
+       y="-91.500702"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="246.22852"
+       y="-91.951385"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="103.96709"
+       y="-93.892639"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="81.430595"
+       y="-93.893707"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="126.2127"
+       y="-93.892639"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p10_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="58.586235"
+       y="-94.11792"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="148.18976"
+       y="-93.892517"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="170.14758"
+       y="-93.892517"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="293.43805"
+       y="-146.10489"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="268.89929"
+       y="-146.106"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.01831"
+       y="-145.87946"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r05p01" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="245.61011"
+       y="-146.33011"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="105.22552"
+       y="-148.05498"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="82.688774"
+       y="-148.05595"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="127.47112"
+       y="-148.05498"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p10_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="59.844536"
+       y="-148.28021"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="149.44824"
+       y="-148.0549"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="171.40607"
+       y="-148.0549"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="293.43805"
+       y="-198.37051"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="268.89929"
+       y="-198.3717"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.01831"
+       y="-198.14519"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="245.61011"
+       y="-198.59584"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="106.48382"
+       y="-252.75267"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r07p07" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="83.947319"
+       y="-252.75377"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r07p08" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="128.72968"
+       y="-252.75267"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r07p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.103081"
+       y="-252.97778"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r07p09" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="150.70667"
+       y="-252.75255"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r07p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="293.78516"
+       y="-251.38266"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="269.24622"
+       y="-251.38374"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.36548"
+       y="-251.15744"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="245.95709"
+       y="-251.60799"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="106.48382"
+       y="-301.81729"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p08" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="83.947319"
+       y="-301.81827"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p09" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="128.72968"
+       y="-301.81729"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p07" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p10_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.103081"
+       y="-302.04251"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p10" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="150.70667"
+       y="-301.8172"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="172.66461"
+       y="-301.8172"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r08p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="106.88409"
+       y="-350.89978"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p07" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="84.347221"
+       y="-350.90082"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p08" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="129.12933"
+       y="-350.89978"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.502983"
+       y="-351.125"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p09" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="151.10663"
+       y="-350.89969"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="107.23064"
+       y="-495.4097"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r012p04" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="84.693657"
+       y="-495.41086"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r012p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="129.47601"
+       y="-495.4097"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r012p03" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.849419"
+       y="-495.63492"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r012p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="151.45312"
+       y="-495.40964"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r012p02" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="173.41107"
+       y="-495.40964"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r12p01" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="106.62273"
+       y="-397.79449"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p04" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="84.086357"
+       y="-397.79565"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="128.86871"
+       y="-397.79449"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p03" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.241997"
+       y="-398.01974"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="150.84558"
+       y="-397.7944"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p02" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="172.80353"
+       y="-397.7944"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r10p01" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="107.25213"
+       y="-448.13351"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p04" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="84.715508"
+       y="-448.13467"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="129.49774"
+       y="-448.13351"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p03" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="61.871147"
+       y="-448.35898"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="151.47473"
+       y="-448.13342"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p02" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="173.4328"
+       y="-448.13342"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r11p01" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="293.72119"
+       y="-300.43597"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="269.18225"
+       y="-300.43701"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.30145"
+       y="-300.21063"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="245.89307"
+       y="-300.66116"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p02_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="294.06812"
+       y="-351.72318"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p03_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="269.52924"
+       y="-351.72433"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p01_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="317.64844"
+       y="-351.49789"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r09p01" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p04_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="246.24011"
+       y="-351.94839"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:7.08350801px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.59029233;"
+       x="-281.56934"
+       y="-181.58453"
+       id="text4497-2-7"
+       transform="scale(0.92766264,1.0779781)"><tspan
+         sodipodi:role="line"
+         id="tspan4499-4-8"
+         x="-281.56934"
+         y="-181.58453"
+         style="font-size:54.89670181px;line-height:1.25;stroke-width:0.59029233;">MidLab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:5.61805058px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.46817091;"
+       x="1265.2169"
+       y="-146.95404"
+       id="text4497-2-7-2-9"
+       transform="scale(0.95808283,1.0437511)"><tspan
+         sodipodi:role="line"
+         x="1265.2169"
+         y="-146.95404"
+         id="tspan6664"
+         style="font-size:35.39139175px;line-height:1.25;stroke-width:0.46817091;">Lab Pasteur</tspan></text>
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p08_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="106.09624"
+       y="-199.77544"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p09_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="83.559624"
+       y="-199.77647"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p07_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="128.34186"
+       y="-199.77544"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p10_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="60.715263"
+       y="-200.00063"
+       transform="rotate(-90)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p06_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="150.31897"
+       y="-199.77544"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r06p06" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.266379px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p05_midlab_sm_cri_epita_net"
+       class="computer"
+       width="19.576113"
+       height="28.611296"
+       x="172.27686"
+       y="-199.77544"
+       transform="rotate(-90)"
+       inkscape:label="#midlab-r06p05" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.3602"
+       y="372.94269"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="372.94269"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="372.94269"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="372.94269"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.8315"
+       y="329.71686"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1130.0607"
+       y="329.71686"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.4735"
+       y="329.71686"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.7028"
+       y="329.71686"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.932"
+       y="329.71686"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.8315"
+       y="286.49091"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1130.0607"
+       y="286.49091"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.4735"
+       y="286.49091"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.7028"
+       y="286.49091"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.932"
+       y="286.49091"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.8315"
+       y="243.26509"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1130.0607"
+       y="243.26509"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.4735"
+       y="243.26509"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.7028"
+       y="243.26509"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.932"
+       y="243.26509"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.8315"
+       y="200.03926"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1130.0607"
+       y="200.03926"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.4735"
+       y="200.03926"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.7028"
+       y="200.03926"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.932"
+       y="200.03926"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.8315"
+       y="156.81343"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1130.0607"
+       y="156.81343"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.4735"
+       y="156.81343"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.7028"
+       y="156.81343"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r06p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.932"
+       y="156.81343"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p13_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.0804"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p12_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p11_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p10_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p09_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.6447"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p08_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1202.8739"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p07_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1221.1031"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p06_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1239.3324"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r07p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1330.4788"
+       y="113.5876"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p13_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.0804"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p12_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p11_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p10_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p09_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.6447"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p08_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1202.8739"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p07_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1221.1031"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p06_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1239.3324"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r08p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1330.4788"
+       y="70.361771"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p13_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.0804"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p12_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p11_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p10_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p09_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.6447"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p08_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1202.8739"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p07_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1221.1031"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p06_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1239.3324"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r09p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1330.4788"
+       y="27.135942"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p13_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1111.0804"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p12_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p11_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p10_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p09_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.6447"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p08_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1202.8739"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p07_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1221.1031"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p06_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1239.3324"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r10p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1330.4788"
+       y="-16.089888"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p11_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1129.7734"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p10_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1148.0026"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p09_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1166.4154"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p08_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1184.6447"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p07_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1202.8739"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p06_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1221.1031"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p05_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1239.3324"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r11p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="-59.31572"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p04_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1257.5616"
+       y="-102.54168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p03_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1275.7909"
+       y="-102.54168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p02_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1294.0203"
+       y="-102.54168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.12355292px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r12p01_pasteur_sm_cri_epita_net"
+       class="computer"
+       width="16.20351"
+       height="27.20911"
+       x="1312.2495"
+       y="-102.54168"
+       transform="scale(1,-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-948.94202"
+       y="58.719902"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-949.85693"
+       y="245.8118"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-949.70984"
+       y="199.73517"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-949.21606"
+       y="104.78052"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p02_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-949.48328"
+       y="152.90279"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r01p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-971.30774"
+       y="58.564659"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r05p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-972.22253"
+       y="245.65652"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r04p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-972.07544"
+       y="199.5799"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r02p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-971.58167"
+       y="104.62524"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1.27615285px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="r03p01_sm14_sm_cri_epita_net"
+       class="computer"
+       width="18.799404"
+       height="30.255035"
+       x="-971.84888"
+       y="152.74753"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.40157485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="r03p10_midlab_sm_cri_epita_net-3"
+       class="computer"
+       width="79.62719"
+       height="488.28964"
+       x="-1194.5007"
+       y="-1002.4534"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-832.4342"
+       y="1091.5844"
+       id="text5834"><tspan
+         sodipodi:role="line"
+         id="tspan5832"
+         x="-832.4342"
+         y="1091.5844">sw-cri-lab</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.15748024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sw-cri-lab-status"
+       cx="-872.58777"
+       cy="1082.2404"
+       rx="25.001276"
+       ry="22.98097" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.40157485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="r03p10_midlab_sm_cri_epita_net-3-1"
+       class="computer"
+       width="79.62719"
+       height="488.28964"
+       x="-623.45758"
+       y="-1009.3946"
+       transform="rotate(-90)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="-839.37537"
+       y="520.54114"
+       id="text5834-2"><tspan
+         sodipodi:role="line"
+         id="tspan5832-7"
+         x="-839.37537"
+         y="520.54114">sw-cri-3IE</tspan></text>
+    <ellipse
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:4.15748024;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sw-cri-3IE-status"
+       cx="-879.52893"
+       cy="511.19717"
+       rx="25.001276"
+       ry="22.98097"
+       inkscape:label="#psw-cri-3IE-status" />
+    <rect
+       style="display:inline;opacity:1;fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:3.40157485;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="r03p10_midlab_sm_cri_epita_net-3-1-9"
+       class="computer"
+       width="79.62719"
+       height="488.28964"
+       x="-703.08478"
+       y="-1009.3947"
+       transform="rotate(-90)" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="sw-cri-3IE-1-1"
+       width="20.708128"
+       height="21.465742"
+       x="-994.21222"
+       y="555.15228"
+       inkscape:label="#rsw-cri-3IE-1-1">
+      <desc
+         id="desc6522">sw-cri-3IE-1-1
+port 1</desc>
+    </rect>
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6485-3"
+       width="20.708128"
+       height="21.465742"
+       x="-994.35382"
+       y="581.96863" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6485-6"
+       width="20.708128"
+       height="21.465742"
+       x="-969.01385"
+       y="555.76001" />
+    <rect
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.37795275;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6485-3-0"
+       width="20.708128"
+       height="21.465742"
+       x="-1031.9926"
+       y="-444.21198" />
+  </g>
+</svg>
